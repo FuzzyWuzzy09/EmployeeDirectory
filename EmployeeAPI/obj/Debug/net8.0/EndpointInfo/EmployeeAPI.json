@@ -1,0 +1,618 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "EmployeeAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Attendance": {
+      "post": {
+        "tags": [
+          "Attendance"
+        ],
+        "summary": "Mark attendance for an employee.",
+        "requestBody": {
+          "description": "Attendance object containing EmployeeId, Date, and Status",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Attendance"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Attendance"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Attendance"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Attendance"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Attendance"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Attendance"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Attendance/employee/{employeeId}": {
+      "get": {
+        "tags": [
+          "Attendance"
+        ],
+        "summary": "Get attendance records for an employee within a date range.",
+        "parameters": [
+          {
+            "name": "employeeId",
+            "in": "path",
+            "description": "Employee ID",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "from",
+            "in": "query",
+            "description": "Start date of the range",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "to",
+            "in": "query",
+            "description": "End date of the range",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Attendance"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Attendance"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Attendance"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Department": {
+      "get": {
+        "tags": [
+          "Department"
+        ],
+        "summary": "Get all departments.",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Department"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Department"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Department"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Department"
+        ],
+        "summary": "Create a new department.",
+        "requestBody": {
+          "description": "Department object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Department"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Department"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Department"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Department/{id}": {
+      "get": {
+        "tags": [
+          "Department"
+        ],
+        "summary": "Get a department by ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Department ID",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Department"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Department"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Department"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Department"
+        ],
+        "summary": "Update an existing department.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Department ID",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "Updated department object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Department"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Department"
+        ],
+        "summary": "Delete a department by ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Department ID",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Employee": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "summary": "Get all employees.",
+        "parameters": [
+          {
+            "name": "name",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "department",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Employee"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Employee"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Employee"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Employee"
+        ],
+        "summary": "Create a new employee.",
+        "requestBody": {
+          "description": "Employee object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Employee/{id}": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "summary": "Get a single employee by ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Employee ID",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Employee"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Employee"
+        ],
+        "summary": "Update an existing employee.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Employee ID",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "description": "Updated employee object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Employee"
+        ],
+        "summary": "Delete an employee by ID.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "Employee ID",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Attendance": {
+        "required": [
+          "date",
+          "employeeId",
+          "status"
+        ],
+        "type": "object",
+        "properties": {
+          "attendanceId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "employeeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "employee": {
+            "$ref": "#/components/schemas/Employee"
+          },
+          "date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "status": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Department": {
+        "required": [
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "departmentId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Employee": {
+        "required": [
+          "department",
+          "email",
+          "joinDate",
+          "name"
+        ],
+        "type": "object",
+        "properties": {
+          "employeeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "department": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "joinDate": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

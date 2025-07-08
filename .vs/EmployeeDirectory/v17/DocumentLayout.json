@@ -1,0 +1,646 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\employeeui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\employeeui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\employeeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\sqlscripts\\employeedirectory.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\sqlscripts\\employeedirectory.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\shared\\components\\newjoineesemp\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\shared\\components\\newjoineesemp\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\viewcomponents\\newjoineesempviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\viewcomponents\\newjoineesempviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\attendance\\mark.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\attendance\\mark.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\shared\\_alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\shared\\_alert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\services\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\services\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\models\\attendanceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\models\\attendanceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\models\\hruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\models\\hruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\views\\attendance\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\views\\attendance\\report.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\models\\attendancefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\models\\attendancefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeui\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239B0C11-6E01-476E-8B88-D66D274DAEF7}|EmployeeUI\\EmployeeUI.csproj|solutionrelative:employeeui\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|c:\\users\\sheno\\desktop\\week 4 assignments\\employeedirectory\\employeeapi\\sqlscripts\\employeedirectory.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F260A0AF-4A24-4455-B52C-A6C34A51B662}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\sqlscripts\\employeedirectory.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeUI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:55:13.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\EmployeeAPI.csproj",
+              "RelativeDocumentMoniker": "EmployeeAPI\\EmployeeAPI.csproj",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\EmployeeAPI.csproj",
+              "RelativeToolTip": "EmployeeAPI\\EmployeeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T16:51:43.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeUI.csproj",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\EmployeeUI.csproj",
+              "RelativeDocumentMoniker": "EmployeeUI\\EmployeeUI.csproj",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\EmployeeUI.csproj",
+              "RelativeToolTip": "EmployeeUI\\EmployeeUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T12:45:53.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EmployeeUI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:31:37.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "EmployeeUI\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:59:08.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T11:47:33.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:08:24.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T10:35:01.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Program.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Program.cs",
+              "RelativeToolTip": "EmployeeUI\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:49:45.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T19:21:18.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:42:17.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:36:41.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:39:25.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:41:30.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDirectory.sql ",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\SQLScripts\\EmployeeDirectory.sql",
+              "RelativeDocumentMoniker": "EmployeeAPI\\SQLScripts\\EmployeeDirectory.sql",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\SQLScripts\\EmployeeDirectory.sql",
+              "RelativeToolTip": "EmployeeAPI\\SQLScripts\\EmployeeDirectory.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-20T18:05:41.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NewJoineesEmpViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\ViewComponents\\NewJoineesEmpViewComponent.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\ViewComponents\\NewJoineesEmpViewComponent.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\ViewComponents\\NewJoineesEmpViewComponent.cs",
+              "RelativeToolTip": "EmployeeUI\\ViewComponents\\NewJoineesEmpViewComponent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:23:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:26:48.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T13:07:20.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\appsettings.json",
+              "RelativeToolTip": "EmployeeUI\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T10:28:59.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Shared\\Components\\NewJoineesEmp\\Default.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Shared\\Components\\NewJoineesEmp\\Default.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Shared\\Components\\NewJoineesEmp\\Default.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Shared\\Components\\NewJoineesEmp\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T14:38:09.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Mark.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Attendance\\Mark.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Attendance\\Mark.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Attendance\\Mark.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Attendance\\Mark.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-02T14:17:10.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Alert.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Shared\\_Alert.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Shared\\_Alert.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Shared\\_Alert.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Shared\\_Alert.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T11:52:06.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Services\\IAttendanceService.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Services\\IAttendanceService.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Services\\IAttendanceService.cs",
+              "RelativeToolTip": "EmployeeUI\\Services\\IAttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:59:36.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\Attendance.cs",
+              "RelativeToolTip": "EmployeeUI\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:37:19.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttendanceEntry.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\AttendanceEntry.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Models\\AttendanceEntry.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\AttendanceEntry.cs",
+              "RelativeToolTip": "EmployeeUI\\Models\\AttendanceEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:40:23.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Services\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "EmployeeUI\\Services\\AttendanceService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:12:17.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:34:31.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HRUser.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\HRUser.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Models\\HRUser.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\HRUser.cs",
+              "RelativeToolTip": "EmployeeUI\\Models\\HRUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:30:44.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Report.cshtml",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Attendance\\Report.cshtml",
+              "RelativeDocumentMoniker": "EmployeeUI\\Views\\Attendance\\Report.cshtml",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Views\\Attendance\\Report.cshtml",
+              "RelativeToolTip": "EmployeeUI\\Views\\Attendance\\Report.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T09:48:01.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AttendanceFilter.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\AttendanceFilter.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Models\\AttendanceFilter.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\AttendanceFilter.cs",
+              "RelativeToolTip": "EmployeeUI\\Models\\AttendanceFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:40:42.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeUI\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:47:09.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeUI\\Services\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:46:30.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeUI\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:36:33.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeUI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeUI\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeUI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:35:43.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "EmployeeAPI\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:31:59.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeeAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T16:34:57.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Models\\Attendance.cs",
+              "RelativeToolTip": "EmployeeAPI\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:27:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\sheno\\Desktop\\Week 4 Assignments\\EmployeeDirectory\\EmployeeAPI\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeAPI\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:27:13.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

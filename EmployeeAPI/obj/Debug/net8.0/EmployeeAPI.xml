@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EmployeeAPI</name>
+    </assembly>
+    <members>
+        <member name="M:EmployeeAPI.Controllers.AttendanceController.MarkAttendance(EmployeeAPI.Models.Attendance)">
+            <summary>
+            Mark attendance for an employee.
+            </summary>
+            <param name="attendance">Attendance object containing EmployeeId, Date, and Status</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.AttendanceController.GetAttendance(System.Int32,System.DateTime,System.DateTime)">
+            <summary>
+            Get attendance records for an employee within a date range.
+            </summary>
+            <param name="employeeId">Employee ID</param>
+            <param name="from">Start date of the range</param>
+            <param name="to">End date of the range</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.DepartmentController.GetAllDepartments">
+            <summary>
+            Get all departments.
+            </summary>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.DepartmentController.GetDepartment(System.Int32)">
+            <summary>
+            Get a department by ID.
+            </summary>
+            <param name="id">Department ID</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.DepartmentController.CreateDepartment(EmployeeAPI.Models.Department)">
+            <summary>
+            Create a new department.
+            </summary>
+            <param name="department">Department object</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.DepartmentController.UpdateDepartment(System.Int32,EmployeeAPI.Models.Department)">
+            <summary>
+            Update an existing department.
+            </summary>
+            <param name="id">Department ID</param>
+            <param name="department">Updated department object</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.DepartmentController.DeleteDepartment(System.Int32)">
+            <summary>
+            Delete a department by ID.
+            </summary>
+            <param name="id">Department ID</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.EmployeeController.GetEmployees(System.String,System.String)">
+            <summary>
+            Get all employees.
+            </summary>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.EmployeeController.GetEmployee(System.Int32)">
+            <summary>
+            Get a single employee by ID.
+            </summary>
+            <param name="id">Employee ID</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.EmployeeController.CreateEmployee(EmployeeAPI.Models.Employee)">
+            <summary>
+            Create a new employee.
+            </summary>
+            <param name="employee">Employee object</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.EmployeeController.UpdateEmployee(System.Int32,EmployeeAPI.Models.Employee)">
+            <summary>
+            Update an existing employee.
+            </summary>
+            <param name="id">Employee ID</param>
+            <param name="employee">Updated employee object</param>
+        </member>
+        <member name="M:EmployeeAPI.Controllers.EmployeeController.DeleteEmployee(System.Int32)">
+            <summary>
+            Delete an employee by ID.
+            </summary>
+            <param name="id">Employee ID</param>
+        </member>
+    </members>
+</doc>
